@@ -1,5 +1,5 @@
 {
-    "name": "alesanchezr/link-checker",
+    "name": "glicer/link-checker",
     "type": "library",
     "description": "Check broken links in html files, sitemap.xml and robots.txt",
     "keywords": ["html", "broken", "links"],
