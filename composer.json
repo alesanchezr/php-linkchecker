@@ -1,9 +1,9 @@
 {
-    "name": "glicer/link-checker",
+    "name": "alesanchezr/link-checker",
     "type": "library",
     "description": "Check broken links in html files, sitemap.xml and robots.txt",
     "keywords": ["html", "broken", "links"],
-    "homepage": "https://github.com/emmanuelroecker/php-linkchecker",
+    "homepage": "https://github.com/alesanchezr/php-linkchecker",
     "license": "MIT",
     "authors": [
         {
